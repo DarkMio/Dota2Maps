@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5032"
-	"mapversion" "25"
+	"mapversion" "28"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "28"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -22888,7 +22888,7 @@ entity
 	"classname" "info_target"
 	"angles" "0 0 0"
 	"spawnflags" "0"
-	"targetname" "hill_marker_01"
+	"targetname" "koth_marker"
 	"origin" "0 0 0"
 	editor
 	{
@@ -22896,6 +22896,121 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 2000]"
+	}
+}
+entity
+{
+	"id" "4571"
+	"classname" "info_overlay"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "-1578.86 63.1833 0"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "overlays/camp_marking001"
+	"sides" "384"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-64 -64 0"
+	"uv1" "-64 64 0"
+	"uv2" "64 64 0"
+	"uv3" "64 -64 0"
+	"origin" "-1578.86 63.1833 128"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "4958"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "-1536 0 0"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "overlays/camp_marking002"
+	"sides" "384"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-23.002 -137.893 0"
+	"uv1" "-196.767 112.951 0"
+	"uv2" "114.771 162.834 0"
+	"uv3" "104.998 -137.893 0"
+	"origin" "-1536 0 128"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5006"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"targetname" "base_goodguys"
+	"origin" "-1600 64 137"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "5076"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"targetname" "base_badguys"
+	"origin" "1472.77 128 137"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "5115"
+	"classname" "info_overlay"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "1477.55 97.0505 0"
+	"BasisU" "1 0 0"
+	"BasisV" "0 1 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "overlays/camp_marking001"
+	"sides" "168"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-64 -64 0"
+	"uv1" "-64 64 0"
+	"uv2" "64 64 0"
+	"uv3" "64 -64 0"
+	"origin" "1477.55 97.0505 128"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
 	}
 }
 cameras
