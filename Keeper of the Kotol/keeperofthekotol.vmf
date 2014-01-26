@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5032"
-	"mapversion" "24"
+	"mapversion" "25"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "24"
+	"mapversion" "25"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -22620,7 +22620,7 @@ entity
 	"id" "204"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2441.39 1856.79 256"
+	"origin" "-671.05 354.27 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22634,7 +22634,7 @@ entity
 	"id" "216"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2328.26 1743.66 256"
+	"origin" "-557.92 241.14 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22648,7 +22648,7 @@ entity
 	"id" "219"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2215.12 1630.52 256"
+	"origin" "-444.78 128 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22662,7 +22662,7 @@ entity
 	"id" "222"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2056.73 1788.91 256"
+	"origin" "-286.39 286.39 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22676,7 +22676,7 @@ entity
 	"id" "225"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2169.86 1902.05 256"
+	"origin" "-399.52 399.53 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22690,7 +22690,7 @@ entity
 	"id" "228"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2283 2015.18 256"
+	"origin" "-512.66 512.66 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22704,7 +22704,7 @@ entity
 	"id" "231"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2124.61 2173.58 256"
+	"origin" "-354.27 671.06 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22718,7 +22718,7 @@ entity
 	"id" "234"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-2011.47 2060.44 256"
+	"origin" "-241.13 557.92 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22732,7 +22732,7 @@ entity
 	"id" "237"
 	"classname" "info_player_start_goodguys"
 	"angles" "0 315 0"
-	"origin" "-1898.34 1947.3 256"
+	"origin" "-128 444.78 256"
 	editor
 	{
 		"color" "0 255 0"
@@ -22746,7 +22746,7 @@ entity
 	"id" "447"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "1923.22 -2207.06 256"
+	"origin" "418.27 -640 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22760,7 +22760,7 @@ entity
 	"id" "450"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "2081.61 -2048.67 256"
+	"origin" "576.66 -481.61 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22774,7 +22774,7 @@ entity
 	"id" "453"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "2240 -1890.28 256"
+	"origin" "735.05 -323.22 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22788,7 +22788,7 @@ entity
 	"id" "456"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "2126.87 -1777.14 256"
+	"origin" "621.92 -210.08 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22802,7 +22802,7 @@ entity
 	"id" "459"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "1968.48 -1935.53 256"
+	"origin" "463.53 -368.47 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22816,7 +22816,7 @@ entity
 	"id" "462"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "1810.08 -2093.92 256"
+	"origin" "305.13 -526.86 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22830,7 +22830,7 @@ entity
 	"id" "465"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "1696.95 -1980.79 256"
+	"origin" "192 -413.73 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22844,7 +22844,7 @@ entity
 	"id" "468"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "1855.34 -1822.4 256"
+	"origin" "350.39 -255.34 256"
 	editor
 	{
 		"color" "255 0 0"
@@ -22858,7 +22858,7 @@ entity
 	"id" "471"
 	"classname" "info_player_start_badguys"
 	"angles" "0 135 0"
-	"origin" "2013.73 -1664 256"
+	"origin" "508.78 -96.94 256"
 	editor
 	{
 		"color" "255 0 0"
