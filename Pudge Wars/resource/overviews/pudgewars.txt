@@ -1,0 +1,9 @@
+pudgewars
+{
+	material overviews/pudgewars
+	pos_x -8000
+	pos_y 7950
+	scale 15.500
+	rotate 0
+	zoom 3.0000
+}
